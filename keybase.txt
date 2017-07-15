@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/timparsons
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://timparsons.io
+  * I am timparsons (https://keybase.io/timparsons) on keybase.
+  * I have a public key ASCrEJemJYFzi_GZ1jUS-SqlgDzhQvKIKmsvrG--WDJG6go
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;0120bc89e685e591007cc23924779fa05f3ab795a6b20a843f601605b4915aeec0190a&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;kid&quot;: &quot;0120ab1097a62581738bf199d63512f92aa5803ce142f2882a6b2fac6fbe583246ea0a&quot;,
+            &quot;uid&quot;: &quot;9df56c54086df34bbd4aa4a352515119&quot;,
+            &quot;username&quot;: &quot;timparsons&quot;
+        },
+        &quot;merkle_root&quot;: {
+            &quot;ctime&quot;: 1500083297,
+            &quot;hash&quot;: &quot;c1626ddba69d51177c1fec5a8a8ce7e174204e93055ffdc2a88f3be6ff2b37c9e60a2d1b9538df74ee2acef456e40d7b66bec3acd1b9af6d0611aa2ee21b897b&quot;,
+            &quot;hash_meta&quot;: &quot;85da3d1c51347e7d73b0dc5b84ff535194c5cdf5259804eb546a7eca4f529b74&quot;,
+            &quot;seqno&quot;: 1233902
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;timparsons.io&quot;,
+            &quot;protocol&quot;: &quot;https:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;client&quot;: {
+        &quot;name&quot;: &quot;keybase.io go client&quot;,
+        &quot;version&quot;: &quot;1.0.24&quot;
+    },
+    &quot;ctime&quot;: 1500083325,
+    &quot;expire_in&quot;: 504576000,
+    &quot;prev&quot;: &quot;5dbb3874ef3a43076bf83eaa8b293322cf1a343401d1cacc7a2534699b4d078d&quot;,
+    &quot;seqno&quot;: 9,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqxCXpiWBc4vxmdY1EvkqpYA84ULyiCprL6xvvlgyRuoKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYmM4OWU2ODVlNTkxMDA3Y2MyMzkyNDc3OWZhMDVmM2FiNzk1YTZiMjBhODQzZjYwMTYwNWI0OTE1YWVlYzAxOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYWIxMDk3YTYyNTgxNzM4YmYxOTlkNjM1MTJmOTJhYTU4MDNjZTE0MmYyODgyYTZiMmZhYzZmYmU1ODMyNDZlYTBhIiwidWlkIjoiOWRmNTZjNTQwODZkZjM0YmJkNGFhNGEzNTI1MTUxMTkiLCJ1c2VybmFtZSI6InRpbXBhcnNvbnMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDAwODMyOTcsImhhc2giOiJjMTYyNmRkYmE2OWQ1MTE3N2MxZmVjNWE4YThjZTdlMTc0MjA0ZTkzMDU1ZmZkYzJhODhmM2JlNmZmMmIzN2M5ZTYwYTJkMWI5NTM4ZGY3NGVlMmFjZWY0NTZlNDBkN2I2NmJlYzNhY2QxYjlhZjZkMDYxMWFhMmVlMjFiODk3YiIsImhhc2hfbWV0YSI6Ijg1ZGEzZDFjNTEzNDdlN2Q3M2IwZGM1Yjg0ZmY1MzUxOTRjNWNkZjUyNTk4MDRlYjU0NmE3ZWNhNGY1MjliNzQiLCJzZXFubyI6MTIzMzkwMn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0aW1wYXJzb25zLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjQifSwiY3RpbWUiOjE1MDAwODMzMjUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNWRiYjM4NzRlZjNhNDMwNzZiZjgzZWFhOGIyOTMzMjJjZjFhMzQzNDAxZDFjYWNjN2EyNTM0Njk5YjRkMDc4ZCIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKUNmYeNpYY4SY3XkvXFqN9ko7WmTCfVxAwwOPuJgtkbtCaC6zv5rk3sGa+gIWiN4lVzVLN2TgJmjz+I3M6IQAKoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCzVP64yGVOoruWmWAZKLqFPAVO/gKXrTI2OGacwzyGg6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/timparsons
+
+==================================================================
