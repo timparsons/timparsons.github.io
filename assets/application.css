@@ -146,4 +146,20 @@ nav a.contact {
 @media (max-width:600px) {}
 
 
+.experience h2 {
+    position:relative;
+}
 
+.experience h2 span {
+    position:absolute;
+    top:25%;
+    margin-left: 15px;
+}
+
+.experience .logo {
+    height:50px;
+}
+
+.experience h2, .experience h3 {
+    font-weight: 100;
+}
